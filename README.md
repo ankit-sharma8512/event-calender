@@ -8,6 +8,7 @@ This is an Event Management Calender Application made using React.
 2. Go to that folder directory in command line
 3. Run 'npm install' command in that root folder to install all dependencies specified in package.json
 4. Run 'npm start' command to run the code in a browser.
+Note- Set the screen size (using inspect and custom size in responsive menu) to 360x640 (width x height).
 
 Screenshots of the App-
 
