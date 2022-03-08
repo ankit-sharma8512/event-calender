@@ -2,7 +2,7 @@
 
 This is an Event Management Calender Application made using React.
 
-####Instruction for running the code-
+#### Instruction for running the code-
 
 1. Clone the Repository in a folder.
 2. Go to that folder directory in command line
@@ -10,6 +10,8 @@ This is an Event Management Calender Application made using React.
 4. Run 'npm start' command to run the code in a browser.
 
 Screenshots of the App-
+
+
 ![Home](https://user-images.githubusercontent.com/87691831/157248827-712865df-5402-4877-8b9a-1ca80a73de66.png)
 ![Calender](https://user-images.githubusercontent.com/87691831/157248857-af3ced6e-6b12-48f8-a2a0-c0390c1d3e3e.png)
 ![Events1](https://user-images.githubusercontent.com/87691831/157248887-17c3d9b5-0c8f-4bb7-a81f-c354ab9a7219.png)
